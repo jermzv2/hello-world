@@ -5,5 +5,3 @@ I am making changes to this file.
 
 
 New change/ Remote update.
-
-Conflict Fixed
