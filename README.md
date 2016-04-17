@@ -3,6 +3,7 @@ This is my first repository
 
 I am making changes to this file. 
 
-New change
 
-Conflict
+New change/ Remote update.
+
+Conflict Fixed
